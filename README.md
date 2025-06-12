@@ -1,4 +1,4 @@
-# Nate Spencer's Protfolio
+# Nate Spencer's Cybersecurity Protfolio
 
 Cybersecurity-focused IT professional with 6 years of hands-on experience supporting secure Microsoft 365 environments, cloud infrastructure, and endpoint protection. I’ve worked across healthcare, government, and enterprise sectors, deploying tools like Microsoft Defender, Sentinel, Intune, and Azure to enhance threat detection, incident response, and compliance. My background includes securing over 1,000 hospital endpoints with CrowdStrike, leading Intune migrations for the U.S. Army, and building custom KQL queries to support Microsoft Sentinel analytics. I hold certifications including CompTIA Security+, Microsoft Certified: Identity and Access Administrator Associate, Microsoft Endpoint Administrator, and Microsoft 365 Fundamentals.
 
