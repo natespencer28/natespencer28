@@ -7,6 +7,8 @@ Cybersecurity-focused IT professional with 6 years of hands-on experience suppor
 
 - **[Vulnerability Management Program Implementation](https://github.com/natespencer28/Vulnerability-Management)**
 
+## ⚠️ Threat Hunting Projects
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
