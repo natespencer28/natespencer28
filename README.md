@@ -9,7 +9,7 @@ Cybersecurity-focused IT professional with 6 years of hands-on experience suppor
 
 ## ⚠️ Threat Hunting Project
 
-- **[Threat Hunting Projects](https://github.com/natespencer28/Threat-Hunting)**
+- **[Threat Hunting Projects](https://github.com/natespencer28/Threat_Hunt_Event)**
 
 ## 🤳 Connect With Me
 
