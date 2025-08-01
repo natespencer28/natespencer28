@@ -7,7 +7,7 @@ Cybersecurity-focused IT professional with 6 years of hands-on experience suppor
 
 - **[Vulnerability Management Program Implementation](https://github.com/natespencer28/Vulnerability-Management)**
 
-## ⚠️ Threat Hunting Projects
+## ⚠️ Threat Hunting Project
 
 - **[Threat Hunting Projects](https://github.com/natespencer28/Threat-Hunting)**
 
