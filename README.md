@@ -6,6 +6,7 @@ Cybersecurity-focused IT professional with 6 years of hands-on experience suppor
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/natespencer28/Vulnerability-Management)**
+- **[STIG Remediation](https://github.com/natespencer28/STIG-Remediation)**
 
 ## ⚠️ Threat Hunting Project (TOR Browser)
 
