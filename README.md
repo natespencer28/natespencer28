@@ -8,7 +8,7 @@ Cybersecurity-focused IT professional with 6 years of hands-on experience suppor
 - **[Vulnerability Management Program Implementation](https://github.com/natespencer28/Vulnerability-Management)**
 - **[STIG Remediation](https://github.com/natespencer28/STIG-Remediation)**
 
-## ⚠️ SOC + Azure HoneyPot Project (In progress) 
+## 🍯 SOC + Azure HoneyPot Project (In progress) 
 
 ## ⚠️ Threat Hunting Project (TOR Browser)
 
