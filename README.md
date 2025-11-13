@@ -3,6 +3,11 @@
 Cybersecurity-focused IT professional with 7 years of hands-on experience supporting secure Microsoft 365 environments, cloud infrastructure, and endpoint protection. I’ve worked across healthcare, government, and enterprise sectors, deploying tools like Microsoft Defender, Sentinel, Intune, and Azure to enhance threat detection, incident response, and compliance. My background includes securing over 1,000 hospital endpoints with CrowdStrike, leading Intune migrations for the U.S. Army, and building custom KQL queries to support Microsoft Sentinel analytics. I hold certifications including CompTIA Security+, Azure Fundamentals, Microsoft Certified: Identity and Access Administrator Associate, Microsoft Endpoint Administrator, and Microsoft 365 Fundamentals. I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
+## M365 Tenant Project
+
+- **[M365 Security Project](https://github.com/natespencer28/M365-Security-Project)**
+
+
 ## 🛡️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/natespencer28/Vulnerability-Management)**
