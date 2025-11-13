@@ -7,13 +7,10 @@ Cybersecurity-focused IT professional with 7 years of hands-on experience suppor
 
 - **[M365 Security Project](https://github.com/natespencer28/M365-Security-Project)**
 
-
 ## 🛡️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/natespencer28/Vulnerability-Management)**
 - **[STIG Remediation](https://github.com/natespencer28/STIG-Remediation)**
-
-## 🍯 SOC + Azure HoneyPot Project (In progress) 
 
 ## ⚠️ Threat Hunting Project (TOR Browser)
 
