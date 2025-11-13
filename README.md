@@ -5,7 +5,7 @@ Cybersecurity-focused IT professional with 7 years of hands-on experience suppor
 
 ## M365 Tenant Project
 
-- **[M365 Security Project](https://github.com/natespencer28/M365-Security-Project)**
+- ## 🔐 [M365 Security Project](https://github.com/natespencer28/M365-Security-Project)**
 
 
 ## 🛡️ Vulnerability Management Projects
